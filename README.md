@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on personal projects and ipre (research for bachelor's degree)
 - 🌱 I’m currently learning the fundamentals of computer science (Probably all my life lol)
 - 📫 How to reach me: ibgarrido@uc.cl
-- :computer: Favorite OS: Mac OS.
+- 💻 Favorite OS: Mac OS.
 - ⚡ Fun fact: Let me think about it...
 
 
@@ -46,7 +46,13 @@
 
 ### Analytics:
 
-comming soon.
+![ibgarrido's Stats](https://github-readme-stats.vercel.app/api?username=ibgarrido&theme=highcontrast&show_icons=true&hide_border=false&count_private=false)
+
+![ibgarrido's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibgarrido&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+
+
+👏 Please give me a ⭐️ if you like my repositories!
+
 <!--
 **ibgarrido/ibgarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
