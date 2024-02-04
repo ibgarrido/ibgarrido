@@ -37,10 +37,10 @@
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="sklearn" width="40" height="40"/> </a>
-<a href="https://d3js.org/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/d3js.svg" alt="d3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/git.svg" alt="d3" width="40" height="40"/> </a>
+<a href="https://d3js.org/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/D3.js.svg" alt="d3" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="d3" width="40" height="40"/> </a>
 </p>
 
 
