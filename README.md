@@ -4,11 +4,11 @@
 
 ## About me
 
-- 🔭 I’m currently working on personal projects and ipre (research for bachelor's degree)
-- 🌱 I’m currently learning the fundamentals of computer science (Probably all my life lol)
+- 🔭 I’m currently working on personal projects.
+- 🌱 I’m currently learning the fundamentals of computer science (Probably all my life lol).
 - 📫 How to reach me: ibgarrido@uc.cl
 - 💻 Favorite OS: Mac OS.
-- ⚡ Fun fact: Let me think about it...
+- ⚡ Fun fact: ...
 
 
 ## CV
