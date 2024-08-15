@@ -7,8 +7,7 @@
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning the fundamentals of computer science (Probably all my life lol).
 - 📫 How to reach me: ibgarrido@uc.cl
-- 💻 Favorite OS: Mac OS.
-- ⚡ Fun fact: ...
+- 💻 Favorite OS: MacOS.
 
 
 ## CV
