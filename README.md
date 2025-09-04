@@ -12,7 +12,7 @@
 
 ### Education
 
-- **Bachelor degree, Computer science engineering (Major data science) ** - *Pontificia Universidad Católica de Chile* - Coming soon
+- **Bachelor degree, Computer science engineering (Major data science) ** - *Pontificia Universidad Católica de Chile** - Coming soon
 
 <!--
 ### Languages:
