@@ -12,8 +12,9 @@
 
 ### Education
 
-- **Bachelor degree, data science engineering** - *Pontificia Universidad Católica de Chile* - Coming soon
+- **Bachelor degree, Computer science engineering (Major data science) ** - *Pontificia Universidad Católica de Chile* - Coming soon
 
+<!--
 ### Languages:
 
 <p align="left">
@@ -37,7 +38,7 @@
 </p>
 
 
-<!--
+
 **ibgarrido/ibgarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
