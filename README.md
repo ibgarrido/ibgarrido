@@ -12,7 +12,7 @@
 
 ### Education
 
-- Bachelor degree, Computer science engineering (Major data science) / Pontifice Universidad Católica de Chile - Coming soon
+- Bachelor degree, Computer science engineering (Major in data science) - bachelor in construction science / Pontifice Universidad Católica de Chile - Coming soon
 
 <!--
 ### Languages:
